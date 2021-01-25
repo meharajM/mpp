@@ -13,8 +13,11 @@ header {
 }
 
 header h1 {
-  color: #34262B;
-  font-size: 150px;
+ font-size: 150px;
+  font-style:Felix titling;
+  color: teal;
+  text-align: center;
+  text-weight: Bold;
 }
 
 h1 {
